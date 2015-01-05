@@ -1,0 +1,31 @@
+//
+//  PrefixHeader.pch
+//  MGSinaWeibo
+//
+//  Created by LEON on 14/12/10.
+//  Copyright (c) 2014年 LEON. All rights reserved.
+//
+
+#ifndef MGSinaWeibo_PrefixHeader_pch
+#define MGSinaWeibo_PrefixHeader_pch
+
+
+#import "AFNetworking.h"
+#import "MGSinaEngine.h"
+#import "User.h"
+#import "Urls.h"
+#import "Trend.h"
+#import "Tag.h"
+#import "Status.h"
+#import "School.h"
+#import "Poi.h"
+#import "Geo.h"
+#import "Favorite.h"
+#import "Emotion.h"
+#import "Comment.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+#endif

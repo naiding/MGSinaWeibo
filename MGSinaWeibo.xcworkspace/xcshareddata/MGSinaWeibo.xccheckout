@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01DFC408-7540-48A5-87EA-F135C520CA26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MGSinaWeibo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D3FF170365535AEBCA03359CB8813D8669DF318</key>
+		<string>http://www.github.com/zhounaiding/MGSinaWeibo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MGSinaWeibo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D3FF170365535AEBCA03359CB8813D8669DF318</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.github.com/zhounaiding/MGSinaWeibo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0D3FF170365535AEBCA03359CB8813D8669DF318</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D3FF170365535AEBCA03359CB8813D8669DF318</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MGSinaWeibo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
